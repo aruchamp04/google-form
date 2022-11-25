@@ -1,0 +1,157 @@
+<html>
+    <body>
+        <style>
+            body{
+                background-color: #f5f5dc;
+                border-width:thick;
+                border-style:solid;
+                }
+            h1{
+                color:#dc143c;
+                border-width:thhin;
+                border-style:solid;
+                border-color:#9400d3;
+            }
+            #p1{
+                color:#b22222;
+                background-color: #dcdcdc;
+                font-size:17px;
+                font-family:"harrington",arial,serif;
+            }
+            #p2{
+                color:green;
+                background-color: #dcdcdc;
+                font-size:17px;
+                font-family:"harrington",arial,serif;
+            }
+            #p3{
+                color:blue;
+                background-color: #dcdcdc;
+                font-family:"harrington",arial,serif;
+                font-size:17px;
+            }
+            #p4{
+                color:grey;
+                background-color: #dcdcdc;
+                font-family:"harrington",arial,serif;
+                font-size:17px;
+            }
+            #p5{
+                color:red;
+                background-color: #dcdcdc;
+                font-family:"harrington",arial,serif;
+                font-size:17px;
+            }
+            #p5{
+                color:brown;
+                background-color: #dcdcdc;
+                font-family:"harrington",arial,serif;
+                font-size:17px;
+                background-image:;
+            }
+            #p9{
+                
+            p{
+                color:blue;
+            }
+          </style>
+    </body>
+    <head>
+        <form><get><post>
+           
+        <h1 align ="center">Google Form</h1></h1>
+        <p>*Please Fill Out The Required Details</p>
+        <a href ="#go down">go down</a><br><br>
+       SWEET NAME:<p><input type ="text" id ="p1"name ="USER NAME" placeholder="name" max length ="15" required></id><br></p>
+        PLACE:<p><input type="city" id ="p2"name ="city" placeholder ="City/District" required><br><p></p>
+        MOTHER TONGUE:<p><input type"language" id ="p3" name="language" placeholder="Language" required ></p>
+        ADDRESS:<p><input type="address" id="p4" name"address" placeholder="Address" required ></p>
+        CONTACT NO:<p><input type="number"id="p5" value"number" placeholder="number"></p>
+        AGE:<p><select name ="age" id ="age">
+            <option value ="select age">age</option>
+            <option value ="15">15</option>
+            <option value ="16">16</option>
+            <option value ="17">17</option>
+            <option value ="18">18</option>
+            <option value ="19">19</option>
+            <option value ="20">20</option>
+            <option value ="21">21</option>
+            <option value ="22">22</option>
+            <option value ="23">23</option>
+            <option value ="24">24</option>
+           <option value ="25">25</option>required></select></p>
+           D.O.B:<p><select name ="</p>
+            DATE OF BIRTH<br>
+            <select name ="DOB" id ="DOB">
+                <option value ="SELECT DATE">SELECT DATE</option>
+                <option value ="1">01</option>
+                <option value ="2">02</option>
+                <option value ="3">03</option>
+                <option value ="4">04</option>
+                <option value ="5">05</option>
+                <option value ="6">06</option>
+                <option value ="7">07</option>
+                <option value ="8">08</option>
+                <option value ="9">09</option>
+                <option value ="10">10</option>
+                <option value ="11">11</option>
+                <option value ="12">12</option>
+                <option value ="13">13</option>
+                <option value ="14">14</option>
+                <option value ="15">15</option>
+                <option value ="16">16</option>
+                <option value ="17">17</option>
+                <option value ="18">18</option>
+                <option value ="19">19</option>
+                <option value ="20">20</option>
+                <option value ="21">21</option>
+                <option value ="22">22</option>
+                <option value ="23">23</option>
+                <option value ="24">24</option>
+                <option value ="25">25</option>
+                <option value ="26">26</option>
+                <option value ="27">27</option>
+                <option value ="28">28</option>
+                <option value ="29">29</option>
+                <option value ="30">30</option>
+                <option value ="31">31</option>
+            </select>
+        </p>
+    
+            MONTH<br>
+            
+            <select name ="MONTH" id ="MONTH" >
+                <option value ="month">MONTH</option>
+                <option value ="JANUARY">JANUARY</option>
+                <option value ="FEBRAURY">FEBRAURY</option>
+                <option value ="MARCH">MARCH</option>
+                <option value ="APRIL">APRIL</option>
+                <option value ="MAY">MAY</option>
+                <option value ="JUNE">JUNE</option>
+                <option value ="JULY">JULY</option>
+                <option value ="AUGUST">AUGUEST</option>
+                <option value ="SEPTEMBER">SEPTEMBER</option>
+                <option value ="OCTOBER">OCTOBER</option>
+                <option value ="NOVEMBER">NOVEMBER</option>
+                <option value ="DECEMBER">DECEMBER</option>
+            </select>
+                    </p>
+        
+            YEAR<br>
+            <select name ="YEAR" id ="year">
+                <option value ="YEAR">YEAR</option>
+                <option value ="2000">2000</option>
+                <option value ="2001">2001</option>
+                <option value ="2002">2002</option>
+                <option value ="2003">2003</option>
+                <option value ="2004">2004</option>
+                <option value ="2005">2005</option>
+                <option value ="2006">2006</option>
+                <option value ="2007">2007</option>
+                <option value ="2008">2008</option>
+                <option value ="2009">2009</option>
+                <option value ="2010">2010</option>
+            </select></get></post>
+            <p>
+            <input type ="submit" value ="send">
+        <h3 id ="go down">THANK YOU FOR SPENDING VALUABLE TIME FOR US</p></select>
